@@ -1,0 +1,6 @@
+framework module Pods_circleci_test {
+  umbrella header "Pods-circleci_test-umbrella.h"
+
+  export *
+  module * { export * }
+}
